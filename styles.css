@@ -1,0 +1,13 @@
+.main-display {
+    background-color: grey;
+    display: flex;
+}
+
+.child-display {
+    width: 90px;
+    height: 90px;
+    border: 1px solid black;
+    background-color: aliceblue;
+    text-align: center;
+}
+
